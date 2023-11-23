@@ -40,12 +40,3 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 
 </p>        
     
-
-
-<br>
-
-<div align="center">
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flejdkflel)](https://solved.ac/flejdkflel/)
-    
-</div>
