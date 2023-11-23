@@ -1,5 +1,5 @@
 <br>
-<p align="center">
+<p align="left">
 <Strong>🏫University🏫</Strong><br><br>
 Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2020 ~ FEB  2024</em>
 <br><br>
@@ -7,8 +7,8 @@ Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineer
 Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN  2024 ~ DEC  2026</em>
 </p>   
 <br>
-<div align="center">
-<p align="center">
+<div align="left">
+<p align="left">
 <Strong>:fire:AI Model:fire:</Strong><br>
     
 |Model|Analysis|Specific|
@@ -19,7 +19,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 </p>
 <br>
 
-<p align="center">
+<p align="left">
 <Strong>⚔CONTEST⚔</Strong><br>
 
 |Site|Name|Else|
@@ -31,7 +31,7 @@ Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN 
 
 <br>
 
-<p align="center">
+<p align="left">
 <Strong>📖PROJECT📖</Strong><br>
 
 |With|Name|Date|
