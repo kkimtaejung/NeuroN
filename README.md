@@ -1,15 +1,11 @@
 <br>
-<p align="left">
-<Strong>🏫University🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>Telecommunication Engineering &nbsp;   MAR  2020 ~ FEB  2024</em>
-<br><br>
-<Strong>🏫Laboratory🏫</Strong><br><br>
-Chungbuk National University of Korea —  &nbsp; <em>ROBOTICS Lab &nbsp;   JAN  2024 ~ DEC  2026</em>
+<p align="centor">
+<strong>:fire:Elite NeuroNs:fire:</strong>
 </p>   
 <br>
 <div align="left">
 <p align="left">
-<Strong>:fire:AI Model:fire:</Strong><br>
+<Strong>📚AI Model📚</Strong><br>
     
 |Model|Analysis|Specific|
 |:---:|:---:|:---:|
